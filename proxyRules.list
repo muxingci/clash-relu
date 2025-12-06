@@ -109,3 +109,16 @@ DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepoint-df.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,sharepoint
