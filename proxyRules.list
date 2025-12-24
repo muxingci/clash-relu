@@ -65,6 +65,27 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,igsonar.net
+DOMAIN-SUFFIX,instagramstatic-a.akamaihd.net
+DOMAIN-SUFFIX,instagramstatic.com
+
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fna.fbcdn.net
+DOMAIN-SUFFIX,scontent.cdninstagram.com
+DOMAIN-SUFFIX,scontent.xx.fbcdn.net
+
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,i.instagram.com
+DOMAIN-SUFFIX,b.i.instagram.com
+DOMAIN-SUFFIX,api.instagram.com
+
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,cdninstagram
+
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 
