@@ -96,6 +96,11 @@ DOMAIN-SUFFIX,monad.xyz
 DOMAIN-SUFFIX,segmentapis.com
 DOMAIN-SUFFIX,megaeth.com
 DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,chainid.network
+DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,web3auth.io
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,branch.io
 
 DOMAIN-KEYWORD,metamask
 DOMAIN-KEYWORD,infura
